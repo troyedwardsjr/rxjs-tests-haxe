@@ -1,0 +1,21 @@
+{
+  "name": "rxjs-tests-haxe",
+  "version": "1.0.0",
+  "description": "RxJS for haxe.",
+  "main": "index.js",
+  "scripts": {
+    "build": "haxe build.hxml && webpack ./build/main.js ./public/main.js",
+    "dev": "concurrently --kill-others \"haxe-watchify --program haxe --src src/ --hxml build.hxml\"  \"live-server ./public\""
+  },
+  "author": "Troy Edwards Jr.",
+  "license": "MIT",
+  "dependencies": {
+    "rxjs": "^5.2.0"
+  },
+  "devDependencies": {
+    "haxe-watchify": "^1.3.0",
+    "concurrently": "^3.4.0",
+    "live-server": "^1.2.0",
+    "webpack": "^2.2.1"
+  }
+}

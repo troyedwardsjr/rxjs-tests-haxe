@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"main.js",
+"sourceRoot":"file:///",
+"sources":["C:/HaxeToolkit/haxe/std/js/_std/HxOverrides.hx","C:/Users/Rou/Desktop/Development2017/personal/haxe/rxjs-tests-haxe/step05_create_from_array/src/Main.hx"],
+"names":[],
+"mappings":";;;mBA8HQ,YACN;AAAA,QAAO,QACA,SACA,aACI,WACT;AAAA,SAAO,WAAe;WAEhB,WACN;AAAA,SAAO,SAAa;;;;YC9HR,WAEZ;AAAA,0BACM,CAAE,SAAU,MAAO,oBAEvB,YACE;AAAA,cAAM;GAER,cACE;AAAA,cAAM;GAER,WACE;AAAA,cAAM;;;;;;;;"
+}

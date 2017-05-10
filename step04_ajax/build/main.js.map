@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"main.js",
+"sourceRoot":"file:///",
+"sources":["C:/Users/Rou/Desktop/Development2017/personal/haxe/rxjs-tests-haxe/step04_ajax/src/Main.hx"],
+"names":[],
+"mappings":";;;YAQgB,WAAgB;AAAA,CAC5B,UAAU,cACR;AAAA,SAAO,2BAAwB,mBAAuC;AAAA,GACpE,UAAyB;GACzB,SAAU,MAAM;GAChB,aAAa,WACX;AAAA,MAAG,eAAc,KAAK;AAAA,KACpB,cAAc;KACd;WAEA;AAAA,oBAAe,UAAa;;;GAGhC,cAAc,WACZ;AAAA,mBAAe,UAAa;;GAE9B;;;CAGJ,WAAW,IAAK;CAChB,eACE,YACE;AAAA,cAAO,aAAU;GAEnB,cACE;AAAA,cAAM;GAER,WACE;AAAA,cAAO;;;;;;;;"
+}

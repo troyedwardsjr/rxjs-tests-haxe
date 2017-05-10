@@ -1,0 +1,8 @@
+-D hxnodejs_no_version_warning 
+-lib RxJS
+-lib js-kit
+-cp src
+-js ./build/main.js
+-main Main
+-debug
+-cmd webpack ./build/main.js ./public/main.js
